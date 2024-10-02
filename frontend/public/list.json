@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Book 1",
+    "price": 0,
+    "category": "free",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Book 2",
+    "price": 20,
+    "category": "funny",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Comic Book",
+    "title": "Book 3",
+    "price": 0,
+    "category": "free",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "Book 4",
+    "price": 0,
+    "category": "free",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Book 4",
+    "price": 0,
+    "category": "free",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Comic Book",
+    "title": "Book 5",
+    "price": 50,
+    "category": "entertain",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Science Book",
+    "title": "Book 6",
+    "price": 30,
+    "category": "entertain",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Book 7",
+    "price": 30,
+    "category": "funny",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Book 8",
+    "price": 20,
+    "category": "horror",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Book 9",
+    "price": 10,
+    "category": "horror",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727699379~exp=1727702979~hmac=ea204718307d73cfb9d92709f4c334cce210e4b97f4b0c7ea56e4212cf013a91&w=740"
+  }
+]
